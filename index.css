@@ -1,0 +1,27 @@
+#top {
+  border-bottom: black 2px solid;
+  background-color: lightcyan;
+  display: flex;
+}
+#title {
+  display: flex;
+  margin: 5px;
+}
+#cityCondition {
+  margin: 10px;
+  display: flex;
+}
+
+.card {
+  border: black 2px solid;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  box-shadow: 10px;
+  width: 25%;
+}
+
+#cardContainer {
+  display: flex;
+  width: 100%;
+}
